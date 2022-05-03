@@ -187,3 +187,39 @@ nav ul li span.dm:after {
 .bottom_f {
     background: url(../image/ftnen.jpg);
 }
+
+.menu_f_1 li:nth-child(1):before {
+    content: '';
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: url(../image/icon-location.png) no-repeat;
+    background-position: -55px -115px !important;
+    position: absolute;
+    left: 0;
+    top: -12px;
+}
+
+.menu_f_1 li:nth-child(2):before {
+    content: '';
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: url(../image/icon-phone.png) no-repeat;
+    background-position: -55px -115px !important;
+    position: absolute;
+    left: 0;
+    top: -12px;
+}
+
+.menu_f_1 li:nth-child(3):before {
+    content: '';
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: url(../image/icon-time.png) no-repeat;
+    background-position: -55px -115px !important;
+    position: absolute;
+    left: 0;
+    top: -12px;
+}
