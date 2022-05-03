@@ -223,3 +223,7 @@ nav ul li span.dm:after {
     left: 0;
     top: -12px;
 }
+
+.bottom_f h4 {
+    font-size: 18px;
+}
