@@ -117,3 +117,73 @@ nav ul li span.dm1:after {
 
 
 /* End Custom menu */
+
+nav ul li a.home {
+    background: url(../image/icon-home.png) no-repeat;
+    width: 40px;
+    height: 30px;
+    display: inline-block;
+    background-position: -100px -15px;
+    vertical-align: middle;
+    margin: 0 20px 0 15px;
+}
+
+nav ul li span.dm:after {
+    content: "";
+    background: transparent url(../image/icon-down.png) no-repeat;
+    width: 20px;
+    height: 15px;
+    background-position: -145px -25px;
+    float: right;
+    position: absolute;
+    top: 5px;
+    right: -10px;
+}
+
+#hh1 .lh a:after {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 50%;
+    margin-top: -10px;
+    left: -52px;
+    content: '';
+    display: inline-block;
+    background: url(../image/icon-time.png) no-repeat 0px 0px;
+    background-position: -16px -10px;
+}
+
+#hh1 .lh a:nth-child(2):after {
+    background: url(../image/icon-phone.png) no-repeat -30px 0px;
+    background-position: -57px -12px;
+}
+
+#hh1 .lh a:after {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 50%;
+    margin-top: -10px;
+    left: -52px;
+    content: '';
+    display: inline-block;
+    background: url(../image/icon-phone.png) no-repeat 0px 0px;
+    background-position: -16px -10px;
+}
+
+#s2 {
+    background: url(../image/how-to/s2nen.jpg);
+}
+
+#s4,
+#s9 {
+    background: url(../image/s4nen.jpg);
+}
+
+#s6 {
+    background: url(../image/s6nen.jpg);
+}
+
+.bottom_f {
+    background: url(../image/ftnen.jpg);
+}
