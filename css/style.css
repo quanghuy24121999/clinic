@@ -176,12 +176,13 @@ nav ul li span.dm:after {
 }
 
 #s4,
-#s9 {
+#s9,
+#s6 {
     background: url(../image/s4nen.jpg);
 }
 
-#s6 {
-    background: url(../image/s6nen.jpg);
+#s6 .cmd9 {
+    left: 22%;
 }
 
 .bottom_f {
