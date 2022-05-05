@@ -55,6 +55,7 @@ nav ul ul.sub-menu-2 {
     float: left;
     width: 18%;
     border-right: 1px solid #d7d7d7;
+    border-left: 1px solid #d7d7d7;
     margin: 0 1%;
 }
 
@@ -138,6 +139,14 @@ nav ul li span.dm:after {
     position: absolute;
     top: 5px;
     right: -10px;
+}
+
+#hh1 .logo img {
+    margin: 20px 0 20px 0;
+}
+
+nav ul ul.sub-menu-1 a {
+    margin: 0;
 }
 
 #hh1 .lh a:after {
