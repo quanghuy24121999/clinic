@@ -369,3 +369,18 @@ nav ul ul.sub-menu-1 a {
     padding: 10px;
     width: 400px;
 }
+
+.title {
+    font-size: 24px;
+    font-weight: '500';
+}
+
+.sub-title {
+    font-size: 18px;
+    font-weight: '500';
+}
+
+.sub-sub-title {
+    font-size: 16px;
+    font-weight: '600'; 
+}
