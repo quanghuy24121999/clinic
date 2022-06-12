@@ -57,6 +57,7 @@ nav ul ul.sub-menu-2 {
     line-height: 50px;
 }
 
+
 /* .menu-item.bg .sub-menu-1 .li1 {
     float: left;
     width: 18%;
@@ -257,7 +258,7 @@ nav ul ul.sub-menu-1 a {
     height: 51px;
     position: absolute;
     right: 0;
-    top: 13px;    
+    top: 13px;
 }
 
 .sub-menu-1 .sub-menu1 li:nth-child(1):hover .sub-menu-11 {
@@ -382,5 +383,26 @@ nav ul ul.sub-menu-1 a {
 
 .sub-sub-title {
     font-size: 16px;
-    font-weight: '600'; 
+    font-weight: '600';
+}
+
+#s4 .slick-dots li {
+    display: none;
+}
+
+table,
+td,
+th {
+    border: 1px solid;
+    padding: 10px;
+}
+
+tr {
+    font-size: 20px; 
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
 }
